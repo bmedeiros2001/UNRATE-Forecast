@@ -40,5 +40,7 @@ We incorporate six months of “lagged” values—for instance, prior months’
 
 *JTSJOR (t-6): Job Openings from six months ago*
 
-<img src="Screenshot 2025-02-07 at 12.47.36 PM.png" alt="image" width="700"/>
+![My Screenshot](Screenshot 2025-02-07 at 12.47.36 PM.png)
 
+<img src="Screenshot 2025-02-07 at 12.47.36 PM.png" alt="image" width="700"/>
+![image alt](file:///Users/brunamedeiros/Documents/University%20of%20Chicago/Fall%202024%20-%20Statistical%20Modeling/Final%20Project/Screenshot%202025-02-07%20at%2012.47.36%E2%80%AFPM.png)
