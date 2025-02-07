@@ -82,7 +82,8 @@ The unemployment rate (UNRATE) exhibited skewness, violating the assumption of n
 **After Box-Cox:**
 
 ![image](https://github.com/user-attachments/assets/4f9faada-a607-47ce-9ff5-1d1f5f74957f)
-![image](https://github.com/user-attachments/assets/e1a6e174-c861-47d8-94ef-0d2c8a328584)
+![image](https://github.com/user-attachments/assets/c0680421-d9bd-464f-aaa6-990411d0b80c)
+
 
 
 
