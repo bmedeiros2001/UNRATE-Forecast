@@ -75,7 +75,9 @@ The unemployment rate (UNRATE) exhibited skewness, violating the assumption of n
 **Original Data:**
 
 ![image](https://github.com/user-attachments/assets/4a17cfa9-8619-4c8f-8207-ebc12decda9f)
-![image](https://github.com/user-attachments/assets/877037a3-839e-4945-bf4f-1555803f27d0)
+![image](https://github.com/user-attachments/assets/92d0a612-87ae-406e-a524-2da534cd852a)
+
+
 
 ---
 
