@@ -1,5 +1,8 @@
 # UNRATE-Forecast
-**Summary:** This model will predict U-3 Labor Underutilization Rate for December 2024 (November 1st, 2024). Modeled with Multiple Linear Regression Model using the predictors in the table below, all converted to a monthly level, for the time period Jan 1984 to Oct 2024.
+
+This project forecasts U.S. unemployment rates using a linear regression approach with a Box-Cox transformation for better predictive accuracy. The model provides actionable insights for economic planning and labor market strategies by analyzing historical unemployment data and creating forward-looking estimates. Decision-makers can leverage these forecasts to inform policy adjustments, allocate resources, and anticipate labor force trends.
+
+Accurate unemployment forecasts help policymakers, businesses, and analysts make informed decisions on budget allocation, workforce development, and economic policy. By anticipating shifts in the job market, organizations can strategically plan hiring, training, and resource distribution, minimizing risks and optimizing economic outcomes.
 
 ---
 
